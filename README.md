@@ -49,6 +49,11 @@
 
 ## Começando Rapidinho
 
+Requeriments:
+- Pip;
+- Ubuntu-20.14; => Não é obrigatório;
+- VsCode; Também não é obrigatório, eu utilizo para realizar a programação;
+
 Material for MkDocs can be installed with `pip`:
 
 ``` sh
